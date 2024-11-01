@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Amazon Pay WooCommerce payment gateway\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-21 13:35+0000\n"
+"PO-Revision-Date: 2019-08-21 13:38+0000\n"
+"Last-Translator: demo_plugin <clicksubhadeep@gmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: init-amazonpay.php:217
+msgid "Amazon Pay PluginStar PRO version will expire in"
+msgstr "Amazon Pay PluginStar PRO version will expire in"
+
+#: init-amazonpay.php:220
+msgid "day(s)"
+msgstr "day(s)"
+
+#: init-amazonpay.php:243
+msgid "Settings"
+msgstr "Settings"
+
+#: init-amazonpay.php:244
+msgid "PRO Version"
+msgstr "PRO Version"
+
+#: init-amazonpay.php:258
+msgid "API Key"
+msgstr "API Key"
+
+#: init-amazonpay.php:259
+msgid "Support"
+msgstr "Support"
+
+#: init-amazonpay.php:276 init-amazonpay.php:296 init-amazonpay.php:369
+msgid "Subscription"
+msgstr "Subscription"
+
+#: init-amazonpay.php:302
+msgid "Set Duration (Ex. 1,7,12,14,30..etc)"
+msgstr "Set Duration (Ex. 1,7,12,14,30..etc)"
+
+#: init-amazonpay.php:307
+msgid "Per"
+msgstr "Per"
+
+#: init-amazonpay.php:309
+msgid "Day(s)"
+msgstr "Day(s)"
+
+#: init-amazonpay.php:310
+msgid "Week(s)"
+msgstr "Week(s)"
+
+#: init-amazonpay.php:311
+msgid "Month(s)"
+msgstr "Month(s)"
+
+#: init-amazonpay.php:312
+msgid "Year(s)"
+msgstr "Year(s)"
+
+#: init-amazonpay.php:316
+msgid "Set duration time"
+msgstr "Set duration time"
+
+#: init-amazonpay.php:321
+msgid "Number of total Subscription(s)"
+msgstr "Number of total Subscription(s)"
+
+#: init-amazonpay.php:324
+msgid "Leave blank if this subscription is infinite time"
+msgstr "Leave blank if this subscription is infinite time"
+
+#: init-amazonpay.php:370
+msgid "Subscription and recurring payment"
+msgstr "Subscription and recurring payment"
+
+#: init-amazonpay.php:388
+msgid "Subscription and Recurring type Payment"
+msgstr "Subscription and Recurring type Payment"
+
+#: init-amazonpay.php:414 init-amazonpay.php:466
+msgid "You can't add Subscription more than 1 item in cart"
+msgstr "You can't add Subscription more than 1 item in cart"
+
+#: init-amazonpay.php:500
+#, php-format
+msgid "Error! something went wrong: %1$s"
+msgstr "Error! something went wrong: %1$s"
+
+#: init-amazonpay.php:664 lab-inc/amazonpay.functions.php:253
+#: lab-inc/amazonpay.functions.php:958
+#, php-format
+msgid "Order ID: #%1$s Transaction ID: #%2$s from %3$s"
+msgstr "Order ID: #%1$s Transaction ID: #%2$s from %3$s"
+
+#: init-amazonpay.php:703
+#, php-format
+msgid ""
+"Subscription and recurring Payment<br>Amazon Pay Transaction ID: %1$s<br>"
+"Order Reference: %2$s<br>Subscription Time: %3$s <br>Next Payment: %4$s"
+msgstr ""
+"Subscription and recurring Payment<br>Amazon Pay Transaction ID: %1$s<br>"
+"Order Reference: %2$s<br>Subscription Time: %3$s <br>Next Payment: %4$s"
+
+#: init-amazonpay.php:742 init-amazonpay.php:743
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: init-amazonpay.php:793 init-amazonpay.php:809
+msgctxt "Order status"
+msgid "Subscription & Recurring"
+msgstr "Subscription & Recurring"
+
+#: init-amazonpay.php:798
+#, php-format
+msgid "Subscription & Recurring <span class=\"count\">(%s)</span>"
+msgid_plural "Subscription & Recurring <span class=\"count\">(%s)</span>"
+msgstr[0] "Subscription & Recurring <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+
+#: init-amazonpay.php:871 init-amazonpay.php:933 init-amazonpay.php:1003
+#, php-format
+msgid "Amazon Payment Declined: %1$s<br>Reason: %2$s"
+msgstr "Amazon Payment Declined: %1$s<br>Reason: %2$s"
+
+#: init-amazonpay.php:875
+#, php-format
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: lab-inc/amazonpay.functions.php:22
+msgid "Amazon Pay PluginStar"
+msgstr "Amazon Pay PluginStar"
+
+#: lab-inc/amazonpay.functions.php:23
+msgid "Amazon Pay is familiar trusted way to pay by PluginStar"
+msgstr "Amazon Pay is familiar trusted way to pay by PluginStar"
+
+#: lab-inc/amazonpay.functions.php:50
+msgid "Thank you! and your order has been received."
+msgstr "Thank you! and your order has been received."
+
+#: lab-inc/amazonpay.functions.php:55 lab-inc/amazonpay.functions.php:169
+msgid ""
+"Thank you for your order. We are now redirecting you to Amazon Pay to make "
+"payment."
+msgstr ""
+"Thank you for your order. We are now redirecting you to Amazon Pay to make "
+"payment."
+
+#: lab-inc/amazonpay.functions.php:70
+msgid "Development Guide"
+msgstr "Development Guide"
+
+#: lab-inc/amazonpay.functions.php:97
+msgid "Enable/Disable:"
+msgstr "Enable/Disable:"
+
+#: lab-inc/amazonpay.functions.php:99
+msgid "Enable Amazon Pay"
+msgstr "Enable Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:103
+msgid "Title:"
+msgstr "Title:"
+
+#: lab-inc/amazonpay.functions.php:105 lab-inc/amazonpay.functions.php:112
+msgid "This controls the title which the user sees during checkout."
+msgstr "This controls the title which the user sees during checkout."
+
+#: lab-inc/amazonpay.functions.php:107
+msgid "Amazon Pay"
+msgstr "Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:110
+msgid "Description:"
+msgstr "Description:"
+
+#: lab-inc/amazonpay.functions.php:113
+msgid "Amazon Pay offers a buying experience you can trust."
+msgstr "Amazon Pay offers a buying experience you can trust."
+
+#: lab-inc/amazonpay.functions.php:116
+msgid "Seller ID :"
+msgstr "Seller ID :"
+
+#: lab-inc/amazonpay.functions.php:119
+msgid "String of characters provided by Amazon Pay"
+msgstr "String of characters provided by Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:123
+msgid "Access Key :"
+msgstr "Access Key :"
+
+#: lab-inc/amazonpay.functions.php:126
+msgid "Access Key provided by Amazon Pay"
+msgstr "Access Key provided by Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:130
+msgid "Secret key :"
+msgstr "Secret key :"
+
+#: lab-inc/amazonpay.functions.php:133
+msgid "Secret key provided by Amazon Pay"
+msgstr "Secret key provided by Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:137
+msgid "Client ID:"
+msgstr "Client ID:"
+
+#: lab-inc/amazonpay.functions.php:140
+msgid "Client ID provided by Amazon Pay"
+msgstr "Client ID provided by Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:144
+msgid "Seller currency:"
+msgstr "Seller currency:"
+
+#: lab-inc/amazonpay.functions.php:146
+msgid "Seller currency"
+msgstr "Seller currency"
+
+#: lab-inc/amazonpay.functions.php:149
+msgid ""
+"Set Seller currency as per your amazon Seller bank account <a href=\"https:"
+"//developer.amazon.com/docs/eu/amazon-pay-onetime/supported-currencies."
+"html\" target=\"_blank\">Supported currencies</a>"
+msgstr ""
+"Set Seller currency as per your amazon Seller bank account <a href=\"https:"
+"//developer.amazon.com/docs/eu/amazon-pay-onetime/supported-currencies."
+"html\" target=\"_blank\">Supported currencies</a>"
+
+#: lab-inc/amazonpay.functions.php:152
+msgid "Mode of transaction:"
+msgstr "Mode of transaction:"
+
+#: lab-inc/amazonpay.functions.php:154
+msgid "Amazon Pay Tranasction Mode."
+msgstr "Amazon Pay Tranasction Mode."
+
+#: lab-inc/amazonpay.functions.php:157
+msgid "Mode of Amazon Pay activities"
+msgstr "Mode of Amazon Pay activities"
+
+#: lab-inc/amazonpay.functions.php:160
+msgid "Thank you page message:"
+msgstr "Thank you page message:"
+
+#: lab-inc/amazonpay.functions.php:162
+msgid "Thank you page order success message when order has been received"
+msgstr "Thank you page order success message when order has been received"
+
+#: lab-inc/amazonpay.functions.php:163
+msgid "Thank you! your order has been received."
+msgstr "Thank you! your order has been received."
+
+#: lab-inc/amazonpay.functions.php:166
+msgid "Redirecting you to Amazon Pay :"
+msgstr "Redirecting you to Amazon Pay :"
+
+#: lab-inc/amazonpay.functions.php:168
+msgid "We are now redirecting you to Amazon Pay to make payment"
+msgstr "We are now redirecting you to Amazon Pay to make payment"
+
+#: lab-inc/amazonpay.functions.php:172
+msgid "Subscription and Recurring Payment"
+msgstr "Subscription and Recurring Payment"
+
+#: lab-inc/amazonpay.functions.php:174 lab-inc/amazonpay.functions.php:182
+#: lab-inc/amazonpay.functions.php:189 lab-inc/amazonpay.functions.php:196
+msgid "Active on PRO version"
+msgstr "Active on PRO version"
+
+#: lab-inc/amazonpay.functions.php:179
+msgid "Refund with Amazon Pay"
+msgstr "Refund with Amazon Pay"
+
+#: lab-inc/amazonpay.functions.php:186
+msgid "Add WooCommerce Subscription Product"
+msgstr "Add WooCommerce Subscription Product"
+
+#: lab-inc/amazonpay.functions.php:193
+msgid "Customized Order status Subscription & Recurring "
+msgstr "Customized Order status Subscription & Recurring "
+
+#: lab-inc/amazonpay.functions.php:210
+msgid ""
+"Amazon Pay WooCommerce payment gateway trusted way to pay. ✔ Single, "
+"Subscription and Recurring Payments ✔ Refund with Amazon Pay from WP Admin ✔ "
+"Add WooCommerce Subscription Products ✔ Revenue with automatic Recurring "
+"Payments ✔ Customized Order status <strong>Subscription & Recurring</strong> "
+"and more Payment options developed by PluginStar."
+msgstr ""
+"Amazon Pay WooCommerce payment gateway trusted way to pay. ✔ Single, "
+"Subscription and Recurring Payments ✔ Refund with Amazon Pay from WP Admin ✔ "
+"Add WooCommerce Subscription Products ✔ Revenue with automatic Recurring "
+"Payments ✔ Customized Order status <strong>Subscription & Recurring</strong> "
+"and more Payment options developed by PluginStar."
+
+#: lab-inc/amazonpay.functions.php:215 lab-inc/amazonpay.functions.php:219
+msgid "API KEY:"
+msgstr "API KEY:"
+
+#: lab-inc/amazonpay.functions.php:222
+msgid "&#9989; Valid"
+msgstr "&#9989; Valid"
+
+#: lab-inc/amazonpay.functions.php:222
+msgid "Validate Key"
+msgstr "Validate Key"
+
+#: lab-inc/amazonpay.functions.php:224
+msgid "Edit"
+msgstr "Edit"
+
+#: lab-inc/amazonpay.functions.php:225
+msgid "Delete"
+msgstr "Delete"
+
+#: lab-inc/amazonpay.functions.php:229
+msgid "Get your API Key"
+msgstr "Get your API Key"
+
+#: lab-inc/amazonpay.functions.php:230
+msgid "Click to GET KEY"
+msgstr "Click to GET KEY"
+
+#: lab-inc/amazonpay.functions.php:231
+msgid "and Active PRO version of this plugin"
+msgstr "and Active PRO version of this plugin"
+
+#: lab-inc/amazonpay.functions.php:562
+msgid "Thank you for your order, please click the button below to make payment"
+msgstr ""
+"Thank you for your order, please click the button below to make payment"
+
+#: lab-inc/amazonpay.functions.php:600
+#, php-format
+msgid "Amazon Pay Transaction ID:  %1$s<br>Order Reference ID: %2$s"
+msgstr "Amazon Pay Transaction ID:  %1$s<br>Order Reference ID: %2$s"
+
+#: lab-inc/amazonpay.functions.php:673
+#, php-format
+msgid ""
+"Subscription and recurring Payment<br>Amazon Pay Transaction ID: %1$s<br>"
+"Order Reference: %2$s<br>Subscription Time: %4$s <br>Next Payment: %3$s"
+msgstr ""
+"Subscription and recurring Payment<br>Amazon Pay Transaction ID: %1$s<br>"
+"Order Reference: %2$s<br>Subscription Time: %4$s <br>Next Payment: %3$s"
+
+#: lab-inc/amazonpay.functions.php:684 lab-inc/amazonpay.functions.php:692
+#: lab-inc/amazonpay.functions.php:839
+msgid "Error on payment: Amazon Pay payment failed !"
+msgstr "Error on payment: Amazon Pay payment failed !"
+
+#: lab-inc/amazonpay.functions.php:797
+msgid "Payment waiting for approval..."
+msgstr "Payment waiting for approval..."
+
+#: lab-inc/amazonpay.functions.php:806
+msgid "(Subscription & Recurring Payment)"
+msgstr "(Subscription & Recurring Payment)"
+
+#: lab-inc/amazonpay.functions.php:809
+msgid "Transaction details"
+msgstr "Transaction details"
+
+#: lab-inc/amazonpay.functions.php:813
+msgid "Amazon Pay Transaction ID:"
+msgstr "Amazon Pay Transaction ID:"
+
+#: lab-inc/amazonpay.functions.php:819
+msgid "Order Reference ID:"
+msgstr "Order Reference ID:"
+
+#: lab-inc/amazonpay.functions.php:823
+msgid "Payment Status:"
+msgstr "Payment Status:"
+
+#: lab-inc/amazonpay.functions.php:829
+msgid "Next Payment Date:"
+msgstr "Next Payment Date:"
+
+#: lab-inc/amazonpay.functions.php:1024
+#, php-format
+msgid "Refunded %1$s%2$s Amazon Pay Refund Reference: %3$s"
+msgstr "Refunded %1$s%2$s Amazon Pay Refund Reference: %3$s"
+
+#. Name of the plugin
+msgid "Amazon Pay WooCommerce payment gateway"
+msgstr "Amazon Pay WooCommerce payment gateway"
+
+#. Description of the plugin
+msgid ""
+"Amazon Pay WooCommerce payment gateway trusted way to pay. Single, "
+"Subscription and Recurring Payments, Refund with Amazon Pay from WP Admin, "
+"Add WooCommerce Subscription Products, Revenue with automatic Recurring "
+"Payments, Customized Order status Subscription & Recurring and more Payment "
+"options developed by PluginStar."
+msgstr ""
+"Amazon Pay WooCommerce payment gateway trusted way to pay. Single, "
+"Subscription and Recurring Payments, Refund with Amazon Pay from WP Admin, "
+"Add WooCommerce Subscription Products, Revenue with automatic Recurring "
+"Payments, Customized Order status Subscription & Recurring and more Payment "
+"options developed by PluginStar."
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/woo-paylabs-amazonpay/"
+msgstr "https://wordpress.org/plugins/woo-paylabs-amazonpay/"
+
+#. Author of the plugin
+msgid "Subhadeep Mondal"
+msgstr "Subhadeep Mondal"
+
+#. Author URI of the plugin
+msgid "https://www.linkedin.com/in/subhadeep-mondal"
+msgstr "https://www.linkedin.com/in/subhadeep-mondal"
